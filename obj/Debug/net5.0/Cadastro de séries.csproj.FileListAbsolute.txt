@@ -1,0 +1,18 @@
+C:\Users\LUCAS\source\repos\Cadastro de séries\Cadastro de séries\bin\Debug\net5.0\Cadastro de séries.exe
+C:\Users\LUCAS\source\repos\Cadastro de séries\Cadastro de séries\bin\Debug\net5.0\Cadastro de séries.deps.json
+C:\Users\LUCAS\source\repos\Cadastro de séries\Cadastro de séries\bin\Debug\net5.0\Cadastro de séries.runtimeconfig.json
+C:\Users\LUCAS\source\repos\Cadastro de séries\Cadastro de séries\bin\Debug\net5.0\Cadastro de séries.runtimeconfig.dev.json
+C:\Users\LUCAS\source\repos\Cadastro de séries\Cadastro de séries\bin\Debug\net5.0\Cadastro de séries.dll
+C:\Users\LUCAS\source\repos\Cadastro de séries\Cadastro de séries\bin\Debug\net5.0\ref\Cadastro de séries.dll
+C:\Users\LUCAS\source\repos\Cadastro de séries\Cadastro de séries\bin\Debug\net5.0\Cadastro de séries.pdb
+C:\Users\LUCAS\source\repos\Cadastro de séries\Cadastro de séries\obj\Debug\net5.0\Cadastro de séries.csproj.AssemblyReference.cache
+C:\Users\LUCAS\source\repos\Cadastro de séries\Cadastro de séries\obj\Debug\net5.0\Cadastro de séries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUCAS\source\repos\Cadastro de séries\Cadastro de séries\obj\Debug\net5.0\Cadastro de séries.AssemblyInfoInputs.cache
+C:\Users\LUCAS\source\repos\Cadastro de séries\Cadastro de séries\obj\Debug\net5.0\Cadastro de séries.AssemblyInfo.cs
+C:\Users\LUCAS\source\repos\Cadastro de séries\Cadastro de séries\obj\Debug\net5.0\Cadastro de séries.csproj.CoreCompileInputs.cache
+C:\Users\LUCAS\source\repos\Cadastro de séries\Cadastro de séries\obj\Debug\net5.0\Cadastro de séries.dll
+C:\Users\LUCAS\source\repos\Cadastro de séries\Cadastro de séries\obj\Debug\net5.0\ref\Cadastro de séries.dll
+C:\Users\LUCAS\source\repos\Cadastro de séries\Cadastro de séries\obj\Debug\net5.0\Cadastro de séries.pdb
+C:\Users\LUCAS\source\repos\Cadastro de séries\Cadastro de séries\obj\Debug\net5.0\Cadastro de séries.genruntimeconfig.cache
+C:\Users\LUCAS\source\repos\Cadastro de séries\Cadastro de séries\obj\Debug\net5.0\Interop.Accessibility.dll
+C:\Users\LUCAS\source\repos\Cadastro de séries\Cadastro de séries\obj\Debug\net5.0\Cadastro de séries.csproj.ResolveComReference.cache
